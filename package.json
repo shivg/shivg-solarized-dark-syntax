@@ -1,9 +1,9 @@
 {
-  "name": "solarized-dark-syntax",
+  "name": "shivg-solarized-dark-syntax",
   "theme": "syntax",
-  "version": "0.38.0",
-  "description": "A dark syntax theme using the solarized colors",
-  "repository": "https://github.com/atom/solarized-dark-syntax",
+  "version": "1.40.0",
+  "description": "A dark syntax theme using the solarized colors edited for bright html",
+  "repository": "https://github.com/shivg/shivg-solarized-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
